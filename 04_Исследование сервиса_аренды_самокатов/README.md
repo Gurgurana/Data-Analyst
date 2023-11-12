@@ -23,6 +23,7 @@
 
 ## Используемые библиотеки
 - *pandas*
-- *matplotlib*
 - *numpy*
-
+- *scipy*
+- *matplotlib*
+- *seaborn*

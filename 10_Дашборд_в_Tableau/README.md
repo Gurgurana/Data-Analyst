@@ -1,4 +1,4 @@
-# Проект "Исследование рынка заведений общественного питания"
+# Проект "Презентация TED в Tableau"
 Ссылка на проект: https://public.tableau.com/views/TEDV2/TED?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 Исследуем историю TED-конференций с помощью Tableau.
